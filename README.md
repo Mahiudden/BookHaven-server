@@ -41,8 +41,7 @@ Follow these steps to get the backend application running locally.
 1. Navigate to the `server` directory:
    ```bash
    cd server
-   ```
-   
+   ``` Update more
 
 2. Install dependencies:
    ```bash
