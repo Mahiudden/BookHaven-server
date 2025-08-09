@@ -70,6 +70,7 @@ Follow these steps to get the backend application running locally.
    # or
    yarn start
    ```
+   
 
 The server should start and listen on the specified PORT (default 5000).
 
